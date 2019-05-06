@@ -1,0 +1,2 @@
+/api/* https://api.pandascore.co/:splat?token=Svkm0PUE2PwoSGBOjwKz3dxEb1TLfnWexGZRFCO1F2pmkdSHmNU 200
+/getleagues /.netlify/functions/getleagues/getleagues.js 200
